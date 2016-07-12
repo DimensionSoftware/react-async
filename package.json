@@ -5,7 +5,7 @@
   "main": "index.js",
   "browser": "browser.js",
   "peerDependencies": {
-    "react": "^15.1.0"
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "browserify": "^6.1.0",
@@ -18,7 +18,7 @@
     "mochify": "^1.4.0",
     "node-dev": "~2.6.0",
     "phantomjs": "^1.9.11",
-    "react": "^15.1.0",
+    "react": "^0.14.0",
     "semver": "~4.1.0",
     "uglify-js": "^2.4.15",
     "when": "^3.5.0"
@@ -45,6 +45,6 @@
   "dependencies": {
     "ascii-json": "~0.2.0",
     "fbjs": "0.4.0",
-    "react-dom": "^15.1.0"
+    "react-dom": "^0.14.3"
   }
 }
